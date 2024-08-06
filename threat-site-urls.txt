@@ -1,0 +1,7 @@
+https://snort-org-site.s3.amazonaws.com/production/document_files/files/000/032/663/original/ip-filter.blf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAU7AK5ITMMOXGB2W5%2F20240804%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240804T222010Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b8e4448b0aa06f761b83378ad19df0d1ea63b0c52f0770296dd9f5d8ab1f07a3
+https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
+https://www.dan.me.uk/torlist/
+https://lists.blocklist.de/lists/all.txt
+https://rules.emergingthreats.net/blockrules/compromised-ips.txt
+https://blocklist.greensnow.co/greensnow.txt
+https://myip.ms/files/blacklist/general/latest_blacklist.txt
